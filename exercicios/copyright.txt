@@ -1,0 +1,4 @@
+It is with great pleasure that I declare that the list of exercises used in this course
+was inspired by the Python Course lectured by Gustavo Guanabara:
+
+https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&ab_channel=CursoemV%C3%ADdeo
