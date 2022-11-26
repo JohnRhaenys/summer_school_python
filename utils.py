@@ -6,10 +6,7 @@ def get_function_runtime(function, args=None):
     :return: the time, in seconds
     """
     import time
-    if args:
-        start_time = time.time()
-        function(args)
-    else:
-        start_time = time.time()
-        function()
-    return (time.time() - start_time) * 1000
+    start_time = time.time()
+    function(args)
+    end_time = time.time()
+    return (end_time - start_time) * 1000
